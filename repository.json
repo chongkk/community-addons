@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant Community Add-ons",
-  "url": "https://addons.community",
+  "name": "Home Assistant Community Add-ons Backup",
+  "url": "https://github.com/chongkk/community-addons",
   "maintainer": "Franck Nijhof <frenck@addons.community>"
 }
